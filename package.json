@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/febianvalentino543-ui/144_ServiceCRUD/issues"
   },
-  "homepage": "https://github.com/febianvalentino543-ui/144_ServiceCRUD#readme"
+  "homepage": "https://github.com/febianvalentino543-ui/144_ServiceCRUD#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "pg": "^8.23.1"
+  }
 }
